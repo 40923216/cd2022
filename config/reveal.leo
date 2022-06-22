@@ -639,7 +639,7 @@ console.log( '"customevent" has fired' );
     &lt;p&gt;
         完成建立個人 git hub 倉儲及個人網站
 使用 git clone --recurse-submodules git@github.com:(github 帳號)/(倉儲名稱).git
-&lt;img src="D:\使用者\Desktop\圖片丟這裡\111111"&gt;
+&lt;img src="D:\使用者\Desktop\圖片丟這裡\111111.png"&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
