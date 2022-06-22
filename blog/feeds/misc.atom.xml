@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-28T16:17:16+08:00</updated><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-03-31T14:30:00+08:00</published><updated>2022-04-28T16:17:16+08:00</updated><author><name>40923216</name></author><id>tag:None,2022-03-31:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CMSimfly 網際內容管理 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-22T16:49:01+08:00</updated><entry><title>各週作業</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-03-31T14:30:00+08:00</published><updated>2022-06-22T16:49:01+08:00</updated><author><name>40923216</name></author><id>tag:None,2022-03-31:./w7_summary.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習.&lt;/p&gt;
 
 
@@ -24,4 +24,16 @@
 4.GUI slider 控制前三軸作動
 5.cmsimde 中第一階頁面, 標題為 midterm
 6.網誌名稱為 midterm.html
-7.流程與心得簡報&lt;/p&gt;</content><category term="Misc"></category><category term="2022 Spring CD"></category></entry></feed>
+7.流程與心得簡報&lt;/p&gt;
+&lt;h2&gt;w10&lt;/h2&gt;
+&lt;h2&gt;w11&lt;/h2&gt;
+&lt;p&gt;本學期前段老師讓我們利用youtube的教學，來學習NX的各項操作，也學到了利用LEO編輯Blog，w8的任務中，我們需要把UARM的各零件利用ONS、NX、Solvespace三個繪圖軟體來繪製出來，然後轉檔丟入CoppeliaSim中，而我被分配到的是ONS，繪製好這些零件之後再轉入CoppeliaSim。在w10的任務中，有分成三個任務，第一個是利用python去控制nx中零件的長寬高，第二個是設定環境變數及路徑，利用ugraf.exe開啟NX，第三個是設置github的ssh，不須再次設定token，這讓我學到蠻多東西的，也希望能夠把這些東西融會貫通。&lt;/p&gt;
+&lt;h2&gt;w12&lt;/h2&gt;
+&lt;h2&gt;w13&lt;/h2&gt;
+&lt;h2&gt;w14&lt;/h2&gt;
+&lt;p&gt;1.說明如何利用 Leo Editor 與 Python 編寫 CoppeliaSim 場景中的控制程式w14_copsim_py_leo_ttt.7z
+2.說明如何利用 Lua 編寫 MTB robot 機械手臂的控制程式
+3.說明如何利用 Lua 引入 suctionpad component 執行物件吸取與釋放&lt;/p&gt;
+&lt;h2&gt;w15&lt;/h2&gt;
+&lt;h2&gt;w16&lt;/h2&gt;
+&lt;p&gt;EXAM&lt;/p&gt;</content><category term="Misc"></category><category term="2022 Spring CD"></category></entry></feed>
