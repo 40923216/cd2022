@@ -176,9 +176,10 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20220314203825.13">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        完成老師指派NX教學影片學習之WINK錄製
+&lt;a href="https://40923216.github.io/cd2022/content/w3.html"&gt;w3&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -639,14 +640,17 @@ console.log( '"customevent" has fired' );
     &lt;p&gt;
         完成建立個人 git hub 倉儲及個人網站
 使用 git clone --recurse-submodules git@github.com:(github 帳號)/(倉儲名稱).git
-&lt;img src="D:\使用者\Desktop\圖片丟這裡\111111.png"&gt;
+&lt;a href="https://40923216.github.io/cd2022/content/About.html"&gt;w1&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20220314203825.9">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
+<t tx="leo.20220314203825.9">&lt;section&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
+    &lt;p&gt;
+        完成各組成員及大組倉儲網頁
+&lt;a href="https://40923216.github.io/cd2022/content/w2.html"&gt;w2&lt;/a&gt;
+    &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
