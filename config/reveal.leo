@@ -20,11 +20,7 @@
 <v t="leo.20220314203825.6"><vh>slides div</vh>
 <v t="leo.20220314203825.7"><vh>slide 1</vh></v>
 <v t="leo.20220314203825.8"><vh>slide 2</vh></v>
-<v t="leo.20220314203825.9"><vh>slide3</vh>
-<v t="leo.20220314203825.10"><vh>slide 3-1</vh></v>
-<v t="leo.20220314203825.11"><vh>slide 3-2</vh></v>
-<v t="leo.20220314203825.12"><vh>slide 3-3</vh></v>
-</v>
+<v t="leo.20220314203825.9"><vh>slide3</vh></v>
 <v t="leo.20220314203825.13"><vh>slide 4</vh></v>
 <v t="leo.20220314203825.14"><vh>slide 5 </vh></v>
 <v t="leo.20220314203825.15"><vh>slide 6</vh></v>
@@ -37,6 +33,7 @@
 <v t="leo.20220314203825.22"><vh>slide 13</vh></v>
 <v t="leo.20220314203825.25"><vh>slide 14</vh></v>
 <v t="leo.20220314203825.26"><vh>slide 15</vh></v>
+<v t="leo.20220622210254.1"><vh>slide 16</vh></v>
 </v>
 </v>
 </v>
@@ -127,29 +124,6 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220314203825.1">@language xml
 @tabwidth -4
 @others</t>
-<t tx="leo.20220314203825.10">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20220314203825.11">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20220314203825.12">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20220314203825.13">&lt;section&gt;
     &lt;h2&gt;w3&lt;/h2&gt;
     &lt;p&gt;
@@ -272,8 +246,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;
         1.已知左側綠色底座的 uArm 機械手臂, 其基座座標原點位於絕對座標 (1.0, 0.25, 0), 啟動模擬後 green_suctionpad_frame 座標原點則位於 (0.22859, 0.26047, 0.36576), 請列出運算式說明, 啟動模擬後 joint1, joint2 與 joint3 分別以逆時針旋轉 5 度後, 求 green_suctionpad_frame 的絕對座標值.
 解:直接將程式碼裡 joint1,joint2,joint3 軸，逆時間方向角度改成 5 度，並記錄完成後吸盤座標。
-2. 已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊 頂端中心? 
-解: 先算出 joint1 需要轉動多少度才可再綠色底座的 uArm 機械手臂與紅色方塊構成的直線上。
+
 
 
 &lt;a href="https://40923216.github.io/cd2022/content/w16.html"&gt;w16&lt;/a&gt;
@@ -361,6 +334,19 @@ vertical: body pane on the botton</t>
 &lt;a href="https://40923216.github.io/cd2022/content/w2.html"&gt;w2&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
+
+</t>
+<t tx="leo.20220622210254.1">&lt;section&gt;
+    &lt;h2&gt;w16&lt;/h2&gt;
+    &lt;p&gt;
+        2. 已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊 頂端中心? 
+解: 先算出 joint1 需要轉動多少度才可再綠色底座的 uArm 機械手臂與紅色方塊構成的直線上。
+
+
+&lt;a href="https://40923216.github.io/cd2022/content/w16.html"&gt;w16&lt;/a&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
 
 </t>
 </tnodes>
